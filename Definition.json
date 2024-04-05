@@ -1,0 +1,12 @@
+{
+  "manifestVersion": 5,
+  "id": "author.ExampleMapMod",
+  "name": "ExampleMapMod",
+  "version": "1.0",
+  "requires": [
+    "Zamu.StrangeCustoms",
+  ],
+  "mixintos": {
+    "game-graph": "file(game-graph.json)"
+  }
+}
